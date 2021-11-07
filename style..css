@@ -1,5 +1,5 @@
 body{
-    background:url(backgraound.jpg);
+    background:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(backgraound.jpg);
     background-position: center;
     background-repeat: no-repert;
     background-align: cover;
